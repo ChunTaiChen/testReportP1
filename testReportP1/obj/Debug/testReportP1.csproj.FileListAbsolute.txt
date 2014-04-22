@@ -1,0 +1,9 @@
+D:\ProjTest\testReportP1\testReportP1\bin\Debug\testReportP1.dll
+D:\ProjTest\testReportP1\testReportP1\bin\Debug\testReportP1.pdb
+D:\ProjTest\testReportP1\testReportP1\bin\Debug\ReportTest.dll
+D:\ProjTest\testReportP1\testReportP1\bin\Debug\ReportTest.pdb
+D:\ProjTest\testReportP1\testReportP1\bin\Debug\ReportTest.xml
+D:\ProjTest\testReportP1\testReportP1\obj\Debug\testReportP1.Properties.Resources.resources
+D:\ProjTest\testReportP1\testReportP1\obj\Debug\testReportP1.csproj.GenerateResource.Cache
+D:\ProjTest\testReportP1\testReportP1\obj\Debug\testReportP1.dll
+D:\ProjTest\testReportP1\testReportP1\obj\Debug\testReportP1.pdb
