@@ -7,3 +7,4 @@ D:\ProjTest\testReportP1\testReportP1\obj\Debug\testReportP1.Properties.Resource
 D:\ProjTest\testReportP1\testReportP1\obj\Debug\testReportP1.csproj.GenerateResource.Cache
 D:\ProjTest\testReportP1\testReportP1\obj\Debug\testReportP1.dll
 D:\ProjTest\testReportP1\testReportP1\obj\Debug\testReportP1.pdb
+D:\ProjTest\testReportP1\testReportP1\obj\Debug\testReportP1.csprojResolveAssemblyReference.cache
