@@ -78,6 +78,16 @@
             回傳全部
             </summary>
         </member>
+        <member name="T:ReportTest.DAO.DisciplineMDSummary">
+            <summary>
+            獎懲統計(依功過相抵)
+            </summary>
+        </member>
+        <member name="F:ReportTest.DAO.DisciplineMDSummary._OptionText">
+            <summary>
+            傳入條件文字
+            </summary>
+        </member>
         <member name="T:ReportTest.DAO.DisciplineSummary">
             <summary>
             獎懲統計

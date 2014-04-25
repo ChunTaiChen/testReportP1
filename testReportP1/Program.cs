@@ -31,6 +31,9 @@ namespace testReportP1
                         // 獎懲資料，依學年度學期
                         mc.JoinGroup(new DisciplineDetail(99, 1));
 
+                        // 功過相抵
+                        mc.JoinGroup(new DisciplineMDSummary(99));
+
                         // 整理資料，傳入學生系統編號
                         mc.BuildDataTable(K12.Presentation.NLDPanels.Student.SelectedSource);
 
